@@ -10,6 +10,10 @@ structured data, and other SEO-related elements dynamically.
 - Flexible Configuration: Customize meta tags, links, scripts, and structured data per page or component.
 - Lifecycle Management: Automatically updates meta tags on component mount and manages cleanup on component unmount.
 
+# Sponsor Sveltekit-Seo-Enhancer
+
+<a href="https://buymeacoffee.com/ayushjhunjhunwala" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 # Installation
 
 Install the package using npm:

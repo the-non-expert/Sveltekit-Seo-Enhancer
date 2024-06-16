@@ -1,6 +1,6 @@
 {
   "name": "sveltekit-seo-enhancer",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Enhance SEO capabilities in your SvelteKit applications with ease. This component simplifies the management of meta tags, structured data, and other SEO-related elements dynamically.",
   "author": "Ayush Jhunjhunwala <ayushjhun13@gmail.com>",
   "license": "MIT",
@@ -24,5 +24,13 @@
     "svelte": "^4.2.7",
     "vite": "^5.0.3"
   },
-  "type": "module"
+  "type": "module",
+  "keywords": [
+    "svelte",
+    "sveltekit",
+    "seo",
+    "search engines",
+    "meta tags",
+    "json-ld"
+  ]
 }
