@@ -74,3 +74,25 @@ Import and use the 'SeoEnhancer' component in your SvelteKit pages or components
   }}
 />
 ```
+
+# Contributions
+
+Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
+
+# License
+
+This project is licensed under the MIT License.
+
+# Acknowledgements
+
+Inspiration and guidance from Sveltekit Docs and Best SEO Practices.
+
+### Summary
+
+1. **Use** the `SeoEnhancer` component in your default `+page.svelte`.
+2. **Configure** your `package.json` with the necessary fields and scripts.
+3. **Build** the project using the configured build script.
+4. **Publish** the package to npm.
+5. **Include** a comprehensive `README.md` to guide users on installation and usage.
+
+By following these steps, you can ensure your SvelteKit component is ready for use and easily integrable by others.
